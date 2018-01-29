@@ -1,7 +1,8 @@
-package com.train.appointment;
+package com.train.appointment.activity;
 
 import android.os.Bundle;
 
+import com.train.appointment.R;
 import com.train.appointment.activity.base.ActivityBase;
 
 public class MainActivity extends ActivityBase {
